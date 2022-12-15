@@ -20,7 +20,7 @@ while (i <= n):
 def Log(ch, base):
     i = 0
     pro = 1
-    while (pro < ch):
+    while (pro <= ch):
         pro *= base
         i += 1
     return i - 1
