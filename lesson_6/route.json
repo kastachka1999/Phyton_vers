@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "m1",
+        "rider_id": 11,
+        "bus_id": 30
+    },
+    {
+        "id": 2,
+        "name": "m2",
+        "rider_id": 12,
+        "bus_id": 31
+    },
+    {
+        "id": 3,
+        "name": "m3",
+        "rider_id": 12,
+        "bus_id": 30
+    }
+]
